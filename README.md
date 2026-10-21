@@ -11,4 +11,3 @@ Roadmap of future improvements: Other transportation, other cities provided that
 
 License information:  see MIT License 
 
-For support please email divagg@gmail.com
